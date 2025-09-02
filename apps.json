@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Free Fire",
+    "category": "Action",
+    "icon": "https://i.postimg.cc/MT5pZ2Cr/unnamed.png",
+    "size": "348 MB",
+    "version": "1.104.2",
+    "os": "Android 5.0+",
+    "date": "2025-07-23",
+    "description": "Survival firing game with 50 players on a remote island.",
+    "downloads": "12,286",
+    "screenshots": [
+      "https://i.postimg.cc/fSZ8ktFJ/IMG-20250723-144449.jpg",
+      "https://i.postimg.cc/63fL7XyV/IMG-20250723-144515.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/garena-free-fire-android-2024/com.dts.freefireth"
+  },
+  {
+    "name": "Free Fire Max",
+    "category": "Action",
+    "icon": "https://i.postimg.cc/G2dp1h5y/icon.png",
+    "size": "367 MB",
+    "version": "2.120.5",
+    "os": "Android 6.0+",
+    "date": "2025-08-12",
+    "description": "HD survival shooting experience with realistic graphics.",
+    "downloads": "73,558",
+    "screenshots": [
+      "https://i.postimg.cc/hhBnVCR7/Screenshot-2025-08-02.jpg",
+      "https://i.postimg.cc/5yLq3MBm/Screenshot-2025-08-03.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/garena-free-fire-max/com.dts.freefiremax"
+  },
+  {
+    "name": "PUBG Mobile",
+    "category": "Battle Royale",
+    "icon": "https://i.postimg.cc/7Yyp2gR6/pubg.png",
+    "size": "675 MB",
+    "version": "3.0.0",
+    "os": "Android 6.0+",
+    "date": "2025-06-15",
+    "description": "Realistic battle royale game with multiple maps and modes.",
+    "downloads": "1,200,000",
+    "screenshots": [
+      "https://i.postimg.cc/bN6b0jYP/pubg1.jpg",
+      "https://i.postimg.cc/zGq53KqN/pubg2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/pubg-mobile/com.tencent.ig"
+  },
+  {
+    "name": "Clash of Clans",
+    "category": "Strategy",
+    "icon": "https://i.postimg.cc/Pr1hmJZP/coc.png",
+    "size": "221 MB",
+    "version": "15.3.2",
+    "os": "Android 5.0+",
+    "date": "2025-05-02",
+    "description": "Build your village, train troops and raid other players worldwide.",
+    "downloads": "5,000,000",
+    "screenshots": [
+      "https://i.postimg.cc/L5fwthdy/coc1.jpg",
+      "https://i.postimg.cc/7ZtCxFsw/coc2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/clash-of-clans/com.supercell.clashofclans"
+  }
+]
