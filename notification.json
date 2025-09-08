@@ -1,0 +1,28 @@
+[
+  {
+    "icon": "🔥",
+    "title": "New App Release",
+    "message": "Check out the latest featured apps added to Mods Downloader Online."
+  },
+  {
+    "icon": "⚡",
+    "title": "Update Available",
+    "message": "Several popular apps have been updated with new versions. Visit the app details page to download."
+  },
+  {
+    "icon": "🛠️",
+    "title": "Maintenance Notice",
+    "message": "Scheduled maintenance will occur this weekend to improve speed and reliability."
+  },
+  {
+    "icon": "🎉",
+    "title": "Community News",
+    "message": "Join our Telegram channel for exclusive updates and early access to new apps.",
+    "link": "https://t.me/king_keshav_06"
+  },
+  {
+    "icon": "📢",
+    "title": "Reminder",
+    "message": "Stay updated by checking this section regularly for the latest releases and announcements."
+  }
+]
