@@ -1,26 +1,38 @@
 [
   {
-    "title": "New App KESHAV MODS Available",
-    "message": "Exciting new features and bug fixes!",
-    "timestamp": "2025-10-02T05:00:00.000Z",
-    "isRead": false
+    "id": 1,
+    "title": "Welcome to Mods Downloader!",
+    "body": "Thanks for installing our app. We hope you enjoy it.",
+    "date": "2025-10-04T10:00:00.000Z"
   },
   {
-    "title": "Update Available",
-    "message": "'Mods Downloader' v1.1 is ready to download.",
-    "timestamp": "2025-10-01T10:30:00.000Z",
-    "isRead": true
+    "id": 2,
+    "title": "New App Added!",
+    "body": "Check out the latest app 'Super Mod' that was just added to our collection.",
+    "date": "2025-10-03T15:30:00.000Z"
   },
   {
-    "title": "Maintenance Scheduled",
-    "message": "Brief service interruption on Friday at 2 AM UTC.",
-    "timestamp": "2025-09-30T14:00:00.000Z",
-    "isRead": false
-  },
-  {
+    "id": 3,
     "title": "Community Update",
-    "message": "Join our Discord server for latest news!",
-    "timestamp": "2025-10-02T04:00:00.000Z",
-    "isRead": false
+    "body": "Join our Telegram channel for the latest news and updates.",
+    "date": "2025-09-28T11:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Maintenance Notice",
+    "body": "We will be performing scheduled maintenance this weekend.",
+    "date": "2025-09-25T18:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": null,
+    "body": "This notification has a null title but will be handled safely.",
+    "date": "2025-09-20T12:00:00.000Z"
+  },
+  {
+    "id": null,
+    "title": "Invalid Notification",
+    "body": "This notification has a null ID and will be skipped by the app.",
+    "date": "2025-09-19T12:00:00.000Z"
   }
 ]
