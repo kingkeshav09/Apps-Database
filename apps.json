@@ -13,7 +13,8 @@
       "https://i.postimg.cc/fSZ8ktFJ/IMG-20250723-144449.jpg",
       "https://i.postimg.cc/63fL7XyV/IMG-20250723-144515.jpg"
     ],
-    "downloadLink": "https://apkpure.net/garena-free-fire-android-2024/com.dts.freefireth"
+    "downloadLink": "https://apkpure.net/garena-free-fire-android-2024/com.dts.freefireth",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
   },
   {
     "name": "Free Fire Max",
@@ -29,7 +30,8 @@
       "https://i.postimg.cc/hhBnVCR7/Screenshot-2025-08-02.jpg",
       "https://i.postimg.cc/5yLq3MBm/Screenshot-2025-08-03.jpg"
     ],
-    "downloadLink": "https://www.dropbox.com/scl/fi/0eygae964utiww07qxcyu/download-2.zip?rlkey=rnr8gdqrktsuim7ihn66ag80m&st=kcqdgu89&dl=1"
+    "downloadLink": "https://www.dropbox.com/scl/fi/0eygae964utiww07qxcyu/download-2.zip?rlkey=rnr8gdqrktsuim7ihn66ag80m&st=kcqdgu89&dl=1",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
   },
   {
     "name": "PUBG Mobile",
@@ -45,7 +47,8 @@
       "https://i.postimg.cc/bN6b0jYP/pubg1.jpg",
       "https://i.postimg.cc/zGq53KqN/pubg2.jpg"
     ],
-    "downloadLink": "https://apkpure.net/pubg-mobile/com.tencent.ig"
+    "downloadLink": "https://apkpure.net/pubg-mobile/com.tencent.ig",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
   },
   {
     "name": "Clash of Clans",
@@ -61,6 +64,109 @@
       "https://i.postimg.cc/L5fwthdy/coc1.jpg",
       "https://i.postimg.cc/7ZtCxFsw/coc2.jpg"
     ],
-    "downloadLink": "https://apkpure.net/clash-of-clans/com.supercell.clashofclans"
+    "downloadLink": "https://apkpure.net/clash-of-clans/com.supercell.clashofclans",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
+  },
+  {
+    "name": "Xender",
+    "category": "Tools",
+    "icon": "https://i.postimg.cc/4yC1DZn6/xender.png",
+    "size": "40 MB",
+    "version": "13.0.2",
+    "os": "Android 5.0+",
+    "date": "2025-09-10",
+    "description": "Fast file transfer app that allows you to share photos, videos, and apps without internet.",
+    "downloads": "10,000,000",
+    "screenshots": [
+      "https://i.postimg.cc/HLx6VRyh/xender1.jpg",
+      "https://i.postimg.cc/Fz2ZKwkb/xender2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/xender-share-music-transfer/com.xender",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
+  },
+  {
+    "name": "SHAREit",
+    "category": "Tools",
+    "icon": "https://i.postimg.cc/VN8wcTxJ/shareit.png",
+    "size": "45 MB",
+    "version": "6.28.98",
+    "os": "Android 5.0+",
+    "date": "2025-07-20",
+    "description": "Share any file type quickly without using mobile data or cables.",
+    "downloads": "20,000,000",
+    "screenshots": [
+      "https://i.postimg.cc/9M5yyFVy/shareit1.jpg",
+      "https://i.postimg.cc/dVfYh5yL/shareit2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/shareit-file-transfer-app/com.lenovo.anyshare.gps",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
+  },
+  {
+    "name": "ZArchiver",
+    "category": "File Manager",
+    "icon": "https://i.postimg.cc/KY6PGdR3/zarchiver.png",
+    "size": "12 MB",
+    "version": "1.0.10",
+    "os": "Android 5.0+",
+    "date": "2025-03-18",
+    "description": "Powerful archive management app for creating and extracting ZIP, RAR, and 7z files.",
+    "downloads": "8,500,000",
+    "screenshots": [
+      "https://i.postimg.cc/pTQ6YhFv/zarchiver1.jpg",
+      "https://i.postimg.cc/wjFh0DsJ/zarchiver2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/zarchiver/com.rarlab.rar",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
+  },
+  {
+    "name": "CCleaner",
+    "category": "Cleaner",
+    "icon": "https://i.postimg.cc/W1pYb8N7/ccleaner.png",
+    "size": "35 MB",
+    "version": "24.8.1",
+    "os": "Android 6.0+",
+    "date": "2025-08-01",
+    "description": "Optimize performance, remove junk files, and monitor device storage easily.",
+    "downloads": "4,500,000",
+    "screenshots": [
+      "https://i.postimg.cc/3RtbdTVR/ccleaner1.jpg",
+      "https://i.postimg.cc/0NgjckSd/ccleaner2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/ccleaner/com.piriform.ccleaner",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
+  },
+  {
+    "name": "Google Files",
+    "category": "File Management",
+    "icon": "https://i.postimg.cc/7PMLcrB1/files.png",
+    "size": "25 MB",
+    "version": "1.247.567",
+    "os": "Android 6.0+",
+    "date": "2025-09-30",
+    "description": "Smart file cleaner and storage organizer from Google.",
+    "downloads": "50,000,000",
+    "screenshots": [
+      "https://i.postimg.cc/HkT6tNsz/files1.jpg",
+      "https://i.postimg.cc/RZBPKkRf/files2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/files-by-google/com.google.android.apps.nbu.files",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
+  },
+  {
+    "name": "Speedtest by Ookla",
+    "category": "Network",
+    "icon": "https://i.postimg.cc/W4HYtDM7/speedtest.png",
+    "size": "29 MB",
+    "version": "5.6.9",
+    "os": "Android 6.0+",
+    "date": "2025-08-15",
+    "description": "Check your internet speed instantly and monitor connection stability.",
+    "downloads": "6,000,000",
+    "screenshots": [
+      "https://i.postimg.cc/wBHw5Jkh/speed1.jpg",
+      "https://i.postimg.cc/xT9mbRCx/speed2.jpg"
+    ],
+    "downloadLink": "https://apkpure.net/speedtest-by-ookla/org.zwanoo.android.speedtest",
+    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
   }
 ]
