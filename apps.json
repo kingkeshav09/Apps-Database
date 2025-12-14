@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "GRINGO XP V151",
     "category": "Action",
     "icon": "https://i.postimg.cc/fTM41fdq/download.jpg",
@@ -26,11 +27,11 @@
     "os": "Android 5.0+",
     "date": "2025-11-26",
     "downloads": "3,858",
-    "description": "This is Powerful Mod Apk For Free Free Max & New Update With New Featurs",
+    "description": "Powerful mod APK for Free Fire Max with new updated features.",
     "screenshots": [
       "https://i.postimg.cc/pr0LmW5Y/Screenshot-2025-11-26-05-43-35-996-com-outer-space.jpg",
       "https://i.postimg.cc/Lsd6Y0hK/Screenshot-2025-11-26-05-43-46-790-com-outer-space.jpg",
-"https://i.postimg.cc/wBhxhcst/Screenshot-2025-11-26-05-44-12-512-com-outer-space.jpg"
+      "https://i.postimg.cc/wBhxhcst/Screenshot-2025-11-26-05-44-12-512-com-outer-space.jpg"
     ],
     "downloadLink": "https://www.dropbox.com/scl/fi/f8fhf2x8y7ty2xu6bf5x1/macro-space-apk-v5_MODBIBO.apk?rlkey=ss2at86wqvxlycjiew8yl4wb0&st=bfdd8u37&dl=1",
     "youtubeLink": "https://youtu.be/dkuV1036sus?si=PX6IgaMznE4uosnp"
@@ -95,97 +96,12 @@
     "os": "Android 5.0+",
     "date": "2025-09-10",
     "downloads": "10,000,000",
-    "description": "Fast file transfer app that allows you to share photos, videos, and apps without internet.",
+    "description": "Fast file transfer app without internet.",
     "screenshots": [
       "https://i.postimg.cc/HLx6VRyh/xender1.jpg",
       "https://i.postimg.cc/Fz2ZKwkb/xender2.jpg"
     ],
     "downloadLink": "https://apkpure.net/xender-share-music-transfer/com.xender",
-    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
-  },
-  {
-    "name": "SHAREit",
-    "category": "Tools",
-    "icon": "https://i.postimg.cc/VN8wcTxJ/shareit.png",
-    "size": "45 MB",
-    "version": "6.28.98",
-    "os": "Android 5.0+",
-    "date": "2025-07-20",
-    "downloads": "20,000,000",
-    "description": "Share any file type quickly without using mobile data or cables.",
-    "screenshots": [
-      "https://i.postimg.cc/9M5yyFVy/shareit1.jpg",
-      "https://i.postimg.cc/dVfYh5yL/shareit2.jpg"
-    ],
-    "downloadLink": "https://apkpure.net/shareit-file-transfer-app/com.lenovo.anyshare.gps",
-    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
-  },
-  {
-    "name": "ZArchiver",
-    "category": "File Manager",
-    "icon": "https://i.postimg.cc/KY6PGdR3/zarchiver.png",
-    "size": "12 MB",
-    "version": "1.0.10",
-    "os": "Android 5.0+",
-    "date": "2025-03-18",
-    "downloads": "8,500,000",
-    "description": "Powerful archive management app for creating and extracting ZIP, RAR, and 7z files.",
-    "screenshots": [
-      "https://i.postimg.cc/pTQ6YhFv/zarchiver1.jpg",
-      "https://i.postimg.cc/wjFh0DsJ/zarchiver2.jpg"
-    ],
-    "downloadLink": "https://apkpure.net/zarchiver/com.rarlab.rar",
-    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
-  },
-  {
-    "name": "CCleaner",
-    "category": "Cleaner",
-    "icon": "https://i.postimg.cc/W1pYb8N7/ccleaner.png",
-    "size": "35 MB",
-    "version": "24.8.1",
-    "os": "Android 6.0+",
-    "date": "2025-08-01",
-    "downloads": "4,500,000",
-    "description": "Optimize performance, remove junk files, and monitor device storage easily.",
-    "screenshots": [
-      "https://i.postimg.cc/3RtbdTVR/ccleaner1.jpg",
-      "https://i.postimg.cc/0NgjckSd/ccleaner2.jpg"
-    ],
-    "downloadLink": "https://apkpure.net/ccleaner/com.piriform.ccleaner",
-    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
-  },
-  {
-    "name": "Google Files",
-    "category": "File Management",
-    "icon": "https://i.postimg.cc/7PMLcrB1/files.png",
-    "size": "25 MB",
-    "version": "1.247.567",
-    "os": "Android 6.0+",
-    "date": "2025-09-30",
-    "downloads": "50,000,000",
-    "description": "Smart file cleaner and storage organizer from Google.",
-    "screenshots": [
-      "https://i.postimg.cc/HkT6tNsz/files1.jpg",
-      "https://i.postimg.cc/RZBPKkRf/files2.jpg"
-    ],
-    "downloadLink": "https://apkpure.net/files-by-google/com.google.android.apps.nbu.files",
-    "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
-  },
-  {
-    "name": "Speedtest by Ookla",
-    "category": "Network",
-    "icon": "https://i.postimg.cc/W4HYtDM7/speedtest.png",
-    "size": "29 MB",
-    "version": "5.6.9",
-    "os": "Android 6.0+",
-    "date": "2025-08-15",
-    "downloads": "6,000,000",
-    "description": "Check your internet speed instantly and monitor connection stability.",
-    "screenshots": [
-      "https://i.postimg.cc/wBHw5Jkh/speed1.jpg",
-      "https://i.postimg.cc/xT9mbRCx/speed2.jpg"
-    ],
-    "downloadLink": "https://apkpure.net/speedtest-by-ookla/org.zwanoo.android.speedtest",
     "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
   },
   {
@@ -197,7 +113,7 @@
     "os": "Android 6.0+",
     "date": "2025-11-26",
     "downloads": "2,015",
-    "description": "This mod works on Free Fire Max with Antiban & Antiblacklist features.",
+    "description": "Free Fire Max mod with antiban & antiblacklist support.",
     "screenshots": [
       "https://i.postimg.cc/dQBNZP7R/download-(1).jpg",
       "https://i.postimg.cc/ZnTfsjQf/download-(2).jpg",
