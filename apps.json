@@ -1,5 +1,45 @@
 [
   {
+    "id": "the king cheat",
+    "name": "The King's Cheat",
+    "category": "Mod Menu",
+    "icon": "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/The%20King%20Cheat/images%20(7).jpeg",
+    "size": "120",
+    "version": "V178_v2.117.X",
+    "os": "Android 4.1+",
+    "date": "07/01/2026",
+    "downloads": "64476",
+    "description": "The King Cheats FF is a widely popular A1 FF Mod game tool. In this article, we will present you with a comprehensive and informative guide about it. It will assist you in overcoming periods of boredom.",
+    "screenshots": [
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/The%20King%20Cheat/images%20(8).jpeg",
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/The%20King%20Cheat/images%20(9).jpeg",
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/The%20King%20Cheat/images%20(10).jpeg",
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/The%20King%20Cheat/images%20(11).jpeg"
+    ],
+    "downloadLink": "https://www.dropbox.com/scl/fi/115uy86repemk4p3llddo/GRINGO-XP-V151.apk?rlkey=2dwgycovhsagbggwlmmmwe3dy&st=wbwbh6dp&dl=1",
+    "youtubeLink": "https://youtu.be/g0SbwhGZUnY?si=Lr35cKvPK1prnQrn"
+  },
+  
+  {
+    "id": "gringo xp",
+    "name": "Gringo XP",
+    "category": "Mod Menu",
+    "icon": "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Gringo-XP.png",
+    "size": "210",
+    "version": "189",
+    "os": "android 6+",
+    "date": "20/01/2026",
+    "downloads": "10644",
+    "description": "Gringo XP Android is a mod for Free Fire game that offers numerous upgrades and advantages, including unlimited health, diamonds, and automatic headshots. The mod is compatible with all Android versions and does not require root access. Key benefits include automatic aimbot, more speed, flying ability, teleport trick, unlimited life points, and automatic weapon switching. The app requires Android 5.0 and is a modified version of the original application, developed by a third party without any affiliation with the original developer or Malavida.More on the automatic aimbot.",
+    "screenshots": [
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/images%20(4).jpeg",
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/images%20(5).jpeg",
+    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/images%20(6).jpeg"
+    ],
+    "downloadLink": "https://www.dropbox.com/scl/fi/115uy86repemk4p3llddo/GRINGO-XP-V151.apk?rlkey=2dwgycovhsagbggwlmmmwe3dy&st=wbwbh6dp&dl=1",
+    "youtubeLink": "https://youtu.be/g0SbwhGZUnY?si=Lr35cKvPK1prnQrn"
+  },
+  {
     "name": "GRINGO XP V151",
     "category": "Action",
     "icon": "https://ik.imagekit.io/keshav06/eEagle%20Vpn.png",
@@ -122,24 +162,5 @@
     ],
     "downloadLink": "https://www.dropbox.com/scl/fi/h423bho9m36zx9fmztjr7/GRINGO-XP-V149-fix.apk?rlkey=1wx8i4vs5k9tv6403s5k840rc&st=2a59sahn&dl=1",
     "youtubeLink": "https://www.youtube.com/watch?v=jCVjudmnByk&list=RDjCVjudmnByk&start_radio=1"
-  },
-  {
-    "id": "gringo xp",
-    "name": "Gringo XP",
-    "category": "Mod Menu",
-    "icon": "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Gringo-XP.png",
-    "size": "210",
-    "version": "189",
-    "os": "android 6+",
-    "date": "20/01/2026",
-    "downloads": "10644",
-    "description": "Gringo XP Android is a mod for Free Fire game that offers numerous upgrades and advantages, including unlimited health, diamonds, and automatic headshots. The mod is compatible with all Android versions and does not require root access. Key benefits include automatic aimbot, more speed, flying ability, teleport trick, unlimited life points, and automatic weapon switching. The app requires Android 5.0 and is a modified version of the original application, developed by a third party without any affiliation with the original developer or Malavida.More on the automatic aimbot.",
-    "screenshots": [
-    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/images%20(4).jpeg",
-    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/images%20(5).jpeg",
-    "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/images%20(6).jpeg"
-    ],
-    "downloadLink": "https://www.dropbox.com/scl/fi/115uy86repemk4p3llddo/GRINGO-XP-V151.apk?rlkey=2dwgycovhsagbggwlmmmwe3dy&st=wbwbh6dp&dl=1",
-    "youtubeLink": "https://youtu.be/g0SbwhGZUnY?si=Lr35cKvPK1prnQrn"
   }
 ]
