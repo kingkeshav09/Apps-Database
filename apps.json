@@ -98,6 +98,27 @@
     "youtubeLink": "https://youtu.be/g0SbwhGZUnY?si=Lr35cKvPK1prnQrn"
   },
   {
+    "id": "zarchiver pro",
+    "name": "ZArchiver Pro",
+    "category": "File Manager",
+    "icon": "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Zarchiver%20Pro/ZArchiver-logo.webp",
+    "size": "4.8 MB",
+    "version": "1.0.10 b101037",
+    "os": "Android 6.0+",
+    "date": "2026-02-18",
+    "description": "ZArchiver Pro is a powerful, easy-to-use and lightweight file management and archiving app.",
+    "downloads": "12,286",
+    "screenshots": [
+      "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Zarchiver%20Pro/screen%201.webp",
+      "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Zarchiver%20Pro/screen%202.webp",
+      "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Zarchiver%20Pro/screen%203.png",
+      "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Zarchiver%20Pro/screen%204.png",
+      "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Zarchiver%20Pro/screen%205.png"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=19ZkZ5-88tL7P7Ou-X4Tj7hmfTT7sEd5L",
+    "youtubeLink": "https://youtu.be/g0SbwhGZUnY?si=Lr35cKvPK1prnQrn"
+  },
+  {
     "name": "GRINGO XP V151",
     "category": "Action",
     "icon": "https://raw.githubusercontent.com/kingkeshav09/Apps-Database/refs/heads/main/Apps%20Images/Gringo-XP.png",
